@@ -6,3 +6,4 @@
  * Time: 17:31
  */
 phpinfo();
+echo 'good';
